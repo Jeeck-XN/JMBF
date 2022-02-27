@@ -11,7 +11,7 @@
 <p align="center">
 <i> <b>           Menu </b> </i>
 </p>
-<img src=". ">
+<img src="https://user-images.githubusercontent.com/87571831/155879497-369f8a6d-1bcd-41fc-b2a8-4e6e217c9246.jpg">
 <p align="center">
 <i> <b>  Install Tools</b> </i>
 </p>
@@ -60,6 +60,8 @@
 </p
 <p align="center">
 <i> <b>               [4 XENZI X GANZ</b> </i>
+ <p align="center">
+<i> <b>               [5 ROMI AFRIZAL XX MARK ZUCK</b> </i>
 </p
   <p align="center">
 <i> <b>   JANGAN LUPA FOLLOW GITHUB SAYA DAN KASIH BINTANG NYA :) </b> </i>
