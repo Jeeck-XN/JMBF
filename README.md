@@ -60,6 +60,7 @@
 </p
 <p align="center">
 <i> <b>               [4 XENZI X GANZ</b> </i> 
+</p
 <p align="center">
 <i> <b>      [5 ROMI AFRIZAL XX MARK ZUCK</b> </i>
 </p
