@@ -35,8 +35,8 @@
 </p>
 <p align="center">
 <i> <b>  MBOILE FB AKAN SEGERA HADIR</b> </i>
-
-
+<i> <b>  TOOLS INI DIBUAT DARI TATA MENATA TOOLS</b> </i>
+<i> <b>  GUNAKAN DENGAN BIJAK</b> </i>
 
 ####    My Sosia media
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jecko.ramadhan.9)
