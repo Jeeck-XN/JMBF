@@ -159,7 +159,7 @@ ___ _  / __  /|_/ / __  __  |__  /_
 
 %s[•]%s---------------------------------------------------%s[•]
 %s |
-%s[•] AUTHOR : %sMR.JEECK%s MR.RISKY,XENZI,ROMI,YUMASAA,AANG
+%s[•] AUTHOR : %sMR.JEECK%s MR.RISKY,XENZI,ROMZ,YUMASAA,AANG
 [•] GITHUB : https://github.com/Jeeck-XN
 [•] WHATSAPP : +6281392505882
 %s |------------------"""%(B,p,B,p,B,p,B,p,B))
