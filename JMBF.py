@@ -151,8 +151,8 @@ ___ _  / __  /|_/ / __  __  |__  /_
 
 %s[•]%s---------------------------------------------------%s[•]
 %s |
-%s[•] AUTHOR : %sMR.JEECK%s MR.RISKY,XENZI,ROMZ,YUMASAA,AANG
-[•] GITHUB : https://github.com/Jeeck-XN
+%s[•] AUTHOR : %sSYAHRIL%s MR.RISKY,XENZI,ROMZ,YUMASAA,AANG
+[•] GITHUB : https://github.com/SyahrilEkyram
 [•] WHATSAPP : +6281392505882
 %s |------------------"""%(B,p,B,p,B,p,B,p,B))
 
@@ -880,3 +880,4 @@ if __name__ == '__main__':
     os.system('git pull')
     folder()
     menu()
+😅
